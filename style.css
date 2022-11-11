@@ -84,22 +84,20 @@ p {
 		}
 }
 
-.back {
-		width: 200px;
-		height: 400px;
-		border-radius: 5px;
-		background-color: #D3D3D3;
-		margin: 2em auto;
-}
 
-.grad {
-		width: 20px;
-		height: 400px;
-		/*background-color: #808080;*/
-		background-image: linear-gradient(to right,  #D3D3D3 20%, #808080 90%, #D3D3D3 40%);
-		opacity: .5;
-		animation: animate 1.2s linear infinite;
-}
+		
+		
+		
+		
+		
+
+
+		
+		
+		
+		
+		
+		
 
 @keyframes animate {
 		from {
